@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yadira Garcia</h1>
-<h3 align="center">I am passionate fronted developer and I love learning new technologies in the tech field.s</h3>
+<h3 align="center">I am passionate fronted developer and I love learning new technologies in the tech field.</h3>
 
 - 🔭 I’m currently working on [burger-queen-api-client](https://github.com/yadigarcia/LIM018-burger-queen-api-client)
 
